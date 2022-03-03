@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
-title = "Bigspring Light"
+baseURL = "http://demo.gethugothemes.com/bigspring-light/"
+title = "Axe Hacks"
 theme = "bigspring-light"
 # post pagination
 paginate = "3"
