@@ -53,7 +53,7 @@ url = "https://axe-hacks-2022.devpost.com/"
 
 [[footer_middle]]
 name = "Events"
-url = "/blog"
+url = "blog/"
 
 # footer menu right
 # [[footer_right]]
