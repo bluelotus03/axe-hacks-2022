@@ -5,61 +5,61 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
+name = "Events"
 url = "blog/"
 weight = 2
 
-[[main]]
-name = "Pricing"
-url = "pricing/"
-weight = 3
+# [[main]]
+# name = "Pricing"
+# url = "pricing/"
+# weight = 3
 
 [[main]]
 name = "Contact"
 url = "contact/"
 weight = 4
 
-[[main]]
-name = "FAQ"
-url = "faq/"
-weight = 5
+# [[main]]
+# name = "FAQ"
+# url = "faq/"
+# weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
-url = "#"
+name = "ACM-Women"
+url = "https://linktr.ee/ACMWuncc"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
+name = "Girls Who Code"
+url = "https://gwc-uncc.github.io/myportfolio/"
 
-[[footer_left]]
-name = "Pricing"
-url = "pricing/"
+# [[footer_left]]
+# name = "Pricing"
+# url = "pricing/"
 
 
-# footer menu middle
-[[footer_middle]]
-name = "Pricing"
-url = "pricing/"
-
-[[footer_middle]]
-name = "Platform"
-url = "#"
+# # footer menu middle
+# [[footer_middle]]
+# name = "Pricing"
+# url = "pricing/"
 
 [[footer_middle]]
-name = "Features"
-url = "#"
+name = "Devpost"
+url = "https://axe-hacks-2022.devpost.com/"
+
+[[footer_middle]]
+name = "Events"
+url = "/blog"
 
 # footer menu right
-[[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+# [[footer_right]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+
+# [[footer_right]]
+# name = "Terms & Conditions"
+# url = "terms-conditions/"
 
 [[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-
-[[footer_right]]
-name = "FAQ"
-url = "faq/"
+name = "Contact Us"
+url = "contact/"

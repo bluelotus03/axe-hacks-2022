@@ -15,10 +15,10 @@ blogCategoryType = "category"
 title = "Bigspring Hugo"
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
+footer_menu_left = "Meet the Hosts"
+footer_menu_middle = "Hackathon"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "A fun, beginner-friendly introduction to hackathons."
 # copyright
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
 
@@ -41,10 +41,10 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 button = "I Accept"
   
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[social]]
+# title = "facebook"
+# icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 [[social]]
 title = "twitter"
@@ -52,8 +52,8 @@ icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[social]]
-title = "skype"
-icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
+title = "instagram"
+icon = "fab fa-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[social]]
@@ -64,6 +64,6 @@ link = "#"
 [variables]
 # all colors are defined here: assets/scss/style.scss
 # primary color
-primary_color = "#0AA8A7"
+primary_color = "#381A89"
 # light colored versions of rows
-light = "#EDF6F5"
+light = "#CAE8E7"

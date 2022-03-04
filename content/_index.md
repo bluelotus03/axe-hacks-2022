@@ -1,48 +1,48 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Grab your axe and hack away to find that golden idea!"
   image : "images/cover-photo.png"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
-  button:
-    enable : true
-    label : "Contact Us"
-    link : "contact/"
+  content : "Axe Hacks is a hybrid hackathon for UNC Charlotte students who identify as female or non-binary, focused on a fun, beginner-friendly experience with low-code/no-code projects March 25th - 27th. Stay tuned for our full schedule!"
+  # button:
+  #   enable : true
+  #   label : "Learn More"
+  #   link : "contact/"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "What's in Store for You?"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "Low/No-Code"
       icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Projects are evaluated for design, concepts, potential, and so much more than code - making it ideal for beginners."
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "Connections"
       icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Our hybrid format will let you get to know other students at UNC Charlotte on campus or from the comfort of your own home."
       
     # feature item loop
-    - name : "24h Service"
+    - name : "24h Support"
       icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Worried about running into issues? We will have someone available on the Hacker Help channel around the clock!"
       
     # feature item loop
-    - name : "Value For Money"
+    - name : "Boost Your Resume"
       icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Hackathons are a great time to pick up some new skills, or strengthen your current ones, that you can add to your resume!"
       
     # feature item loop
-    - name : "Faster Response"
+    - name : "Experience"
       icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "You can get used to the hackathon experience without the stress of having to build anything technical."
       
     # feature item loop
-    - name : "Cloud Support"
+    - name : "Creativity"
       icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "With our challenge categories, you can sketch, create a digital prototype or code something. Let your creativity fly!"
       
 
 
@@ -63,39 +63,39 @@ service:
     #     link : "#"
 
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Events Schedule"
       images:
       - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Our hackathon will kick off on Friday, March 25th and wrap up on March 26th. In addition to Hacker Hangouts during the hackathon, we will have an awesome line-up of Mini Events in the week leading up to it. Once our full schedule is posted, you can check it out with the link below!"
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
+        label : "See Events"
+        link : "/blog"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "Challenges & Prizes"
       images:
       - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "As we focus on beginners, we have a variety of prize categories from those rewarding the idea with the most potential to those with the most technical hack. We will also have a challenge for who can create the best Nora the Niner (our awesome female mascot at Axe Hacks). Stay tuned for the announcement of all our categories and prizes! You can find this information and more on Devpost with the link below."
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
+        label : "See Devpost"
+        link : "https://axe-hacks-2022.devpost.com/"
         
     # service item loop
-    - title : "A company standing different from others"
-      images:
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
+    # - title : "Have Questions?"
+    #   images:
+    #   - "images/service-3.png"
+    #   content : "Use the link below to check out our FAQs page where you can find answers to some of your questions. If you find these still don't have what you're looking for, feel free to contact us with menu at the top of this page!"
+    #   button:
+    #     enable : true
+    #     label : "See FAQs"
+    #     link : "/faq"
         
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Hosted By"
+  title : "Co-Hosted By"
   image : "images/gwcandacmw.png"
 
   
@@ -103,11 +103,11 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
-  image : "images/cta.svg"
+  title : "Ready for an adventure?"
+  image : "images/cta.png"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
     enable : true
-    label : "Contact Us"
-    link : "contact/"
+    label : "Sign Me Up!"
+    link : "https://bit.ly/axe-hacks-form"
 ---
