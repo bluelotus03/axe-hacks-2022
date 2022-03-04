@@ -1,8 +1,14 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 
 <div class="col-md-6 mb-4">
+  <!-- https://discourse.gohugo.io/t/generate-a-random-string/26338 -->
+  {{ $aria_id := delimit ( replace (.Get 0 | markdownify | lower) " " "-" | findRE `[a-zA-Z\-]`) "" }}
+  {{ $toggle_id := printf "%s" $aria_id }}
   <div class="p-5 shadow rounded-lg">
-    <h3 class="mb-4 check-mark">{{ .Get 0 | markdownify }}</h3>
-    <p>{{ .Inner | markdownify }}</p>
+    <div class="d-flex faq_title" data-toggle="collapse" data-target="#{{ $toggle_id }}" aria-expanded="false" aria-controls="{{ $toggle_id }}">
+      <i class="mt-1 pr-1 fas fa-chevron-right"></i>
+      <h3 class="mb-4 ti-arrow-right">{{ .Get 0 | markdownify }}</h3>
+    </div>
+    <p class="collapse" id="{{ $toggle_id }}">{{ .Inner | markdownify }}</p>
   </div>
 </div>

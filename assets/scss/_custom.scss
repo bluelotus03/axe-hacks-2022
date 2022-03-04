@@ -1,2 +1,17 @@
 // This file is empty within the template
 // You can use it to override CSS from within your project
+.faq_title {
+  cursor: pointer;
+}
+
+// "\f054" - right
+// "\f078" - down
+.faq_title.collapsed > i::before,
+.faq_title[aria-expanded="false"] > i::before {
+  content: "\f054";
+}
+
+.faq_title[aria-expanded="true"] > i::before {
+  content: "\f054";
+  content: "\f078";
+}
