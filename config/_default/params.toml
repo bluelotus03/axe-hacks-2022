@@ -60,3 +60,10 @@ link = "#"
 title = "linkedin"
 icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+[variables]
+# all colors are defined here: assets/scss/style.scss
+# primary color
+primary_color = "#0AA8A7"
+# light colored versions of rows
+light = "#EDF6F5"
