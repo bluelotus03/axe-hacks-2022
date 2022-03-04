@@ -2,8 +2,8 @@
 logo = "images/logo.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
+description = "Official website for Axe Hacks 2022"
+author = "bluelotus03"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -12,7 +12,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 blogCategoryType = "category"
 
 # from languages.toml file
-title = "Bigspring Hugo"
+title = "Axe Hacks"
 weight = 1
 ########### footer content ##########
 footer_menu_left = "Meet the Hosts"
@@ -30,8 +30,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [navigation_button]
 enable = true
-label = "Get Started"
-link = "contact"
+label = "Register"
+link = "https://bit.ly/axe-hacks-form"
 
 # cookies
 [cookies]
@@ -49,21 +49,21 @@ button = "I Accept"
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/axe_hacks"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/axe.hacks/"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/axe-hacks/"
 
 [variables]
 # all colors are defined here: assets/scss/style.scss
 # primary color
 primary_color = "#381A89"
 # light colored versions of rows
-light = "#CAE8E7"
+light = "#D5F3F1"

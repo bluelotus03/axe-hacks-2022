@@ -30,18 +30,18 @@ feature:
       content : "Worried about running into issues? We will have someone available on the Hacker Help channel around the clock!"
       
     # feature item loop
-    - name : "Boost Your Resume"
+    - name : "Experience"
       icon : "fas fa-heart"
+      content : "You can get used to the hackathon experience without the stress of having to build anything technical."
+
+    # feature item loop
+    - name : "Boost Your Resume"
+      icon : "fas fa-dumbbell"
       content : "Hackathons are a great time to pick up some new skills, or strengthen your current ones, that you can add to your resume!"
       
     # feature item loop
-    - name : "Experience"
-      icon : "fas fa-tachometer-alt"
-      content : "You can get used to the hackathon experience without the stress of having to build anything technical."
-      
-    # feature item loop
     - name : "Creativity"
-      icon : "fas fa-cloud"
+      icon : "fas fa-lightbulb"
       content : "With our challenge categories, you can sketch, create a digital prototype or code something. Let your creativity fly!"
       
 
@@ -105,7 +105,7 @@ call_to_action:
   enable : true
   title : "Ready for an adventure?"
   image : "images/cta.png"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "If you like fun, creative projects and connecting with other awesome UNCC students, you should join us! Once registered, you will be added to our email list for any updates and announcements like our schedule and category prize postings."
   button:
     enable : true
     label : "Sign Me Up!"

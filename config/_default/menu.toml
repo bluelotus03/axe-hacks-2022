@@ -9,7 +9,11 @@ name = "Events"
 url = "blog/"
 weight = 2
 
-# [[main]]
+[[main]]
+name = "Devpost"
+url = "https://axe-hacks-2022.devpost.com/"
+weight = 3
+
 # name = "Pricing"
 # url = "pricing/"
 # weight = 3
