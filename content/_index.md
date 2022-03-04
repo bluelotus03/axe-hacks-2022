@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Grab your axe and hack away to find that golden idea!"
+  title : "Hack away to find that golden idea!"
   image : "images/cover-photo.png"
   content : "Axe Hacks is a hybrid hackathon for UNC Charlotte students who identify as female or non-binary, focused on a fun, beginner-friendly experience with low-code/no-code projects. Join us March 25th - 27th, and stay tuned for our full schedule!"
   # button:
