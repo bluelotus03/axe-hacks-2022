@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
+baseURL = "https://bluelotus03.github.io/axe-hacks-2022/"
 title = "Bigspring Light"
 theme = "bigspring-light"
 # post pagination
