@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://bluelotus03.github.io/axe-hacks-2022/"
+baseURL = "https://gwc-uncc.github.io/axe-hacks-2022/"
 title = "Axe Hacks"
 theme = "bigspring-light"
 # post pagination
