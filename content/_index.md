@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Let us solve your critical website <br> development challenges"
-  image : "images/banner-art.svg"
+  image : "images/cover-photo.png"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:
     enable : true
@@ -95,8 +95,8 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
-  image : "images/screenshot.svg"
+  title : "Hosted By"
+  image : "images/gwcandacmw.png"
 
   
 
