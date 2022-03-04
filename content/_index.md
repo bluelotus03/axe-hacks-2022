@@ -3,7 +3,7 @@
 banner:
   title : "Grab your axe and hack away to find that golden idea!"
   image : "images/cover-photo.png"
-  content : "Axe Hacks is a hybrid hackathon for UNC Charlotte students who identify as female or non-binary, focused on a fun, beginner-friendly experience with low-code/no-code projects March 25th - 27th. Stay tuned for our full schedule!"
+  content : "Axe Hacks is a hybrid hackathon for UNC Charlotte students who identify as female or non-binary, focused on a fun, beginner-friendly experience with low-code/no-code projects. Join us March 25th - 27th, and stay tuned for our full schedule!"
   # button:
   #   enable : true
   #   label : "Learn More"
@@ -66,7 +66,7 @@ service:
     - title : "Events Schedule"
       images:
       - "images/service-1.png"
-      content : "Our hackathon will kick off on Friday, March 25th and wrap up on March 26th. In addition to Hacker Hangouts during the hackathon, we will have an awesome line-up of Mini Events in the week leading up to it. Once our full schedule is posted, you can check it out with the link below!"
+      content : "Our hackathon will kick off on Friday, March 25th and wrap up on March 27th. In addition to Hacker Hangouts during the hackathon, we will have an awesome line-up of Mini Events in the week leading up to it. Once our full schedule is posted, you can check it out with the link below!"
       button:
         enable : true
         label : "See Events"

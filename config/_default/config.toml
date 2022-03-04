@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://bluelotus03.github.io/axe-hacks-2022/"
-title = "Bigspring Light"
+title = "Axe Hacks"
 theme = "bigspring-light"
 # post pagination
 paginate = "3"
