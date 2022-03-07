@@ -14,19 +14,19 @@ name = "Devpost"
 url = "https://axe-hacks-2022.devpost.com/"
 weight = 3
 
-# name = "Pricing"
-# url = "pricing/"
-# weight = 3
+name = "Volunteer"
+url = "volunteer/"
+weight = 3
+
+[[main]]
+name = "FAQ"
+url = "faq/"
+weight = 4
 
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 4
-
-# [[main]]
-# name = "FAQ"
-# url = "faq/"
-# weight = 5
+weight = 5
 
 # footer menu left
 [[footer_left]]
@@ -55,14 +55,14 @@ url = "https://axe-hacks-2022.devpost.com/"
 name = "Events"
 url = "blog/"
 
-# footer menu right
-# [[footer_right]]
-# name = "Privacy Policy"
-# url = "privacy-policy/"
+#footer menu right
+[[footer_right]]
+name = "FAQs"
+url = "faq/"
 
-# [[footer_right]]
-# name = "Terms & Conditions"
-# url = "terms-conditions/"
+[[footer_right]]
+name = "Hackathon Rules"
+url = "hackathon-rules/"
 
 [[footer_right]]
 name = "Contact Us"
