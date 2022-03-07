@@ -51,18 +51,18 @@ url = "https://gwc-uncc.github.io/myportfolio/"
 name = "Devpost"
 url = "https://axe-hacks-2022.devpost.com/"
 
+# [[footer_middle]]
+# name = "Events"
+# url = "blog/"
+
 [[footer_middle]]
-name = "Events"
-url = "blog/"
+name = "Hackathon Rules"
+url = "hackathon-rules/"
 
 #footer menu right
 [[footer_right]]
 name = "FAQs"
 url = "faq/"
-
-[[footer_right]]
-name = "Hackathon Rules"
-url = "hackathon-rules/"
 
 [[footer_right]]
 name = "Contact Us"

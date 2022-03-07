@@ -15,7 +15,7 @@ blogCategoryType = "category"
 title = "Axe Hacks"
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Meet the Hosts"
+footer_menu_left = "Hosts"
 footer_menu_middle = "Hackathon"
 footer_menu_right = "Support"
 footer_content = "A fun, beginner-friendly introduction to hackathons."
