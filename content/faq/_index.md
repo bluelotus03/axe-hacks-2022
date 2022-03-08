@@ -13,8 +13,7 @@ and is at least 16 years old, are welcome to participate as hackers!
 {{</ faq >}}
 
 {{< faq "Can I volunteer?" >}}
-We will have more information on this soon!
-<!-- We are currently looking for Mentors, Judges, and Sponsors! You can find more information about these roles [here](https://gwc-uncc.github.io/axe-hacks-2022/volunteer/) page. If you are interested, please [contact us](https://gwc-uncc.github.io/axe-hacks-2022/contact/)! -->
+We are currently looking for Mentors, Judges, and Sponsors! You can find more information about these roles [here](https://gwc-uncc.github.io/axe-hacks-2022/volunteer/) page. If you are interested, please [apply here](https://forms.gle/R1dfNhV1CVEmn7QAA)!
 {{</ faq >}}
 
 {{< faq "How do I sign up for Axe Hacks?" >}}
