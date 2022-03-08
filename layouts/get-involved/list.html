@@ -11,8 +11,15 @@
             <h3 class="mb-4">{{ .name | markdownify }}</h3>
             <span class="price">{{ .price }}</span><span>{{ .price_per }}</span>
             <p class="lead">{{ .info | markdownify }}</p>
+            <h5>{{ .service_category_1 }}</h5>
             <ul class="list-unstyled mb-5">
-              {{ range .services }}
+              {{ range .perks }}
+              <li>{{ . | markdownify }}</li>
+              {{ end }}
+            </ul>
+            <h5>{{ .service_category_2 }}</h5>
+            <ul class="list-unstyled mb-5">
+              {{ range .duties }}
               <li>{{ . | markdownify }}</li>
               {{ end }}
             </ul>
@@ -32,8 +39,15 @@
             <h3 class="mb-4">{{ .name | markdownify }}</h3>
             <span class="price">{{ .price }}</span><span>{{ .price_per }}</span>
             <p class="lead">{{ .info | markdownify }}</p>
+            <h5>{{ .service_category_1 }}</h5>
             <ul class="list-unstyled mb-5">
-              {{ range .services }}
+              {{ range .perks }}
+              <li>{{ . | markdownify }}</li>
+              {{ end }}
+            </ul>
+            <h5>{{ .service_category_2 }}</h5>
+            <ul class="list-unstyled mb-5">
+              {{ range .duties }}
               <li>{{ . | markdownify }}</li>
               {{ end }}
             </ul>
@@ -53,8 +67,15 @@
             <h3 class="mb-4">{{ .name | markdownify }}</h3>
             <span class="price">{{ .price }}</span><span>{{ .price_per }}</span>
             <p class="lead">{{ .info | markdownify }}</p>
+            <h5>{{ .service_category_1 }}</h5>
             <ul class="list-unstyled mb-5">
-              {{ range .services }}
+              {{ range .perks }}
+              <li>{{ . | markdownify }}</li>
+              {{ end }}
+            </ul>
+            <h5>{{ .service_category_2 }}</h5>
+            <ul class="list-unstyled mb-5">
+              {{ range .duties }}
               <li>{{ . | markdownify }}</li>
               {{ end }}
             </ul>
