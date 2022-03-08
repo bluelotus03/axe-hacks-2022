@@ -13,7 +13,7 @@ and is at least 16 years old, are welcome to participate as hackers!
 {{</ faq >}}
 
 {{< faq "Can I volunteer?" >}}
-We are currently looking for Mentors, Judges, and Sponsors! You can find more information about these roles [here](http://localhost:1313/axe-hacks-2022/volunteer/) page. If you are interested, please [contact us](http://localhost:1313/axe-hacks-2022/contact/)!
+We are currently looking for Mentors, Judges, and Sponsors! You can find more information about these roles [here](https://gwc-uncc.github.io/axe-hacks-2022/volunteer/) page. If you are interested, please [contact us](https://gwc-uncc.github.io/axe-hacks-2022/contact/)!
 {{</ faq >}}
 
 {{< faq "How do I sign up for Axe Hacks?" >}}
@@ -33,11 +33,11 @@ Our Google form gives us more information about you, such as your address for se
 {{</ faq >}}
 
 {{< faq "Are there rules I should know?" >}}
-In addition to the Code of Conduct you signed on the Google form, you can find our full set of rules [here](http://localhost:1313/axe-hacks-2022/hackathon-rules/).
+In addition to the Code of Conduct you signed on the Google form, you can find our full set of rules [here](https://gwc-uncc.github.io/axe-hacks-2022/hackathon-rules/).
 {{</ faq >}}
 
 {{< faq "Where can I find the schedule?" >}}
-You can find our Axe Hacks calendar and any notes on events [here](http://localhost:1313/axe-hacks-2022/blog/). We are working on finalizing our full schedule and will update you as soon as it is released!
+You can find our Axe Hacks calendar and any notes on events [here](https://gwc-uncc.github.io/axe-hacks-2022/blog/). We are working on finalizing our full schedule and will update you as soon as it is released!
 {{</ faq >}}
 
 {{< faq "Is there an Axe Hacks Discord?" >}}
