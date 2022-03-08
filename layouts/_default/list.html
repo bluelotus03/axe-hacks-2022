@@ -9,8 +9,10 @@
     <div class="row">
       <div class="col-12 mb-5 pb-5">
         <div class="row align-items-center justify-content-center text-center">
-          <div class="col-md-6 events_page_no_posts">
-          {{ .Content | markdownify}}        </div>
+          <div class="col-md-6 events_page_no_posts mb-5">
+          {{ .Content | markdownify}}       
+        </div>
+        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23000000&ctz=America%2FNew_York&src=YWVlaDB0MHNyNzlrbGZhNWk5aHM3ZmpsZWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA" style="border:solid 1px rgb(0, 0, 0)" width="800" height="600" frameborder="0" scrolling="no"></iframe>          
       </div>
     </div>
   </div>
@@ -67,7 +69,6 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         <div class="content">{{ .Content }}</div>
-        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23000000&ctz=America%2FNew_York&src=YWVlaDB0MHNyNzlrbGZhNWk5aHM3ZmpsZWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA" style="border:solid 1px rgb(0, 0, 0)" width="800" height="600" frameborder="0" scrolling="no"></iframe>          
       </div>
       </div>
     </div>
