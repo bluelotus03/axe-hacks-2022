@@ -6,14 +6,17 @@ description: "This is meta description"
 draft: false
 ---
 
-
 {{< faq "Who can participate in Axe Hacks?" >}}
 Any graduate or undergraduate UNC Charlotte student who identifies as female (cis or trans) or non-binary,
 and is at least 16 years old, are welcome to participate as hackers!
 {{</ faq >}}
 
+{{< faq "Will events be in-person or virtual?" >}}
+Students may choose to meet in-person for watch parties, working on projects, and attend events together. However, all of our events and judging will be conducted virtually.
+{{</ faq >}}
+
 {{< faq "Can I volunteer?" >}}
-We are currently looking for Mentors, Judges, and Sponsors! You can find more information about these roles [here](https://gwc-uncc.github.io/axe-hacks-2022/volunteer/) page. If you are interested, please [apply here](https://forms.gle/R1dfNhV1CVEmn7QAA)!
+We are currently looking for Mentors, Judges, and Sponsors! You can find more information about these roles [here](https://gwc-uncc.github.io/axe-hacks-2022/volunteer/). If you are interested, please [apply here](https://forms.gle/R1dfNhV1CVEmn7QAA)!
 {{</ faq >}}
 
 {{< faq "How do I sign up for Axe Hacks?" >}}
