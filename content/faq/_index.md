@@ -16,7 +16,7 @@ Students may choose to meet in-person for watch parties, working on projects, an
 {{</ faq >}}
 
 {{< faq "Can I volunteer?" >}}
-We are currently looking for Mentors, Judges, and Sponsors! You can find more information about these roles [here](https://gwc-uncc.github.io/axe-hacks-2022/volunteer/). If you are interested, please [apply here](https://forms.gle/R1dfNhV1CVEmn7QAA)!
+We are currently looking for Mentors, Judges, and Sponsors! You can find more information about these roles [here](https://gwc-uncc.github.io/axe-hacks-2022/get-involved/). If you are interested, please [apply here](https://forms.gle/R1dfNhV1CVEmn7QAA)!
 {{</ faq >}}
 
 {{< faq "How do I sign up for Axe Hacks?" >}}
