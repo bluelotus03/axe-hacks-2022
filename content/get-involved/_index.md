@@ -20,7 +20,7 @@ basic:
   button:
     enable : true
     label : "Apply Today!"
-    link : "https://forms.gle/ikPc5yMfYqQKXV8V7"
+    link : "https://forms.gle/qR1Jo3qGLK4hodJSA"
     
 professional:
   name : "Become a Sponsor"
@@ -37,7 +37,7 @@ professional:
   button:
     enable : true
     label : "Apply Today!"
-    link : "https://forms.gle/ikPc5yMfYqQKXV8V7"
+    link : "https://forms.gle/qR1Jo3qGLK4hodJSA"
     
 business:
   name : "Become a Judge"
@@ -54,7 +54,7 @@ business:
   button:
     enable : true
     label : "Apply Today!"
-    link : "https://forms.gle/ikPc5yMfYqQKXV8V7"
+    link : "https://forms.gle/qR1Jo3qGLK4hodJSA"
 
 call_to_action:
   enable : true
