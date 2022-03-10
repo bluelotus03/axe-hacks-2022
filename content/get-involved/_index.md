@@ -1,6 +1,6 @@
 ---
 title: "Get Involved"
-subtitle: "Please note: All participation requirements are virtual, and you can fill mutliple roles!"
+subtitle: "Please note: All participation requirements are virtual, and you can fill multiple roles!"
 # meta description
 description: "This is meta description"
 draft: false
@@ -11,7 +11,7 @@ basic:
   price_per : ""
   info : "Graduate Students, Alumni, and Working Professionals preferred"
   learn_more: "⭐ See Perks & Duties ⭐" 
-  learn_more_link: "#"
+  learn_more_link: "https://drive.google.com/file/d/1Q4QY4Mm1kL4Rz-iOgd3nAWtP8Et6Nqep/view?usp=sharing"
   service_category_1 : "Involves"
   duties:
   - "Joining Our Discord"
@@ -26,9 +26,9 @@ professional:
   name : "Become a Sponsor"
   price: ""
   price_per : ""
-  info : "Companys, Organizations, and Individuals Welcome!"
+  info : "Companies, Organizations, and Individuals Welcome!"
   learn_more: "⭐ See Perks & Duties ⭐" 
-  learn_more_link: "#"
+  learn_more_link: "https://drive.google.com/file/d/1Q4QY4Mm1kL4Rz-iOgd3nAWtP8Et6Nqep/view?usp=sharing"
   service_category_1 : "Sponsor Tiers"
   tiers:
   - "Gold Tier ($150+)"
@@ -45,7 +45,7 @@ business:
   price_per : ""
   info : "Graduate Students, Alumni, and Working Professionals preferred"
   learn_more: "⭐ See Perks & Duties ⭐" 
-  learn_more_link: "#"
+  learn_more_link: "https://drive.google.com/file/d/1Q4QY4Mm1kL4Rz-iOgd3nAWtP8Et6Nqep/view?usp=sharing"
   service_category_1 : "Involves"
   duties:
   - "(Optional) Joining Our Discord"

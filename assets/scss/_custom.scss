@@ -54,6 +54,20 @@
   }
 }
 
+.sponsor-logos {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  @include desktop {
+    width: 60%;
+  }
+  @include tablet {
+    width: 70%;
+  }
+}
+
 .events_page_no_posts > * > a,
 .events_page_no_posts > a {
   color: #381A89 !important;
