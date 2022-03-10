@@ -12,7 +12,7 @@ draft: false
 **To participate as a hacker, you must...**
 
 * Be at least 16 years old
-* Be a student at UNC Charlotte
+* Be a college student in the U.S.
 * Identify as female (cis or trans) or non-binary
  
 
