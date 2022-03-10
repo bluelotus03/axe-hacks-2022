@@ -98,7 +98,12 @@ screenshot:
   title : "Co-Hosted By"
   image : "images/gwcandacmw.png"
 
-  
+################### Sponsors ########################
+sponsors:
+  enable : true
+  title : "Sponsors"
+  image_1 : "images/echo3D-Logo.png"
+  link_1: "https://www.echo3d.co"
 
 ##################### Call to action #####################
 call_to_action:

@@ -1,5 +1,24 @@
 // This file is empty within the template
 // You can use it to override CSS from within your project
+* a:link,* a:visited {
+  color:rgb(30, 156, 194);
+}
+
+* a:hover,* a:active {
+  color:#381A89;
+}
+
+.btn {
+  &:link,&:visited {
+    color: $primary-color;
+  }
+  &-primary {
+    &:link,&:visited{
+      color: $white;
+    }
+  }
+}
+
 .faq_title {
   cursor: pointer;
 }
@@ -35,7 +54,22 @@
   }
 }
 
+.sponsor-logos {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  @include desktop {
+    width: 60%;
+  }
+  @include tablet {
+    width: 70%;
+  }
+}
+
 .events_page_no_posts > * > a,
 .events_page_no_posts > a {
   color: #381A89 !important;
 }
+

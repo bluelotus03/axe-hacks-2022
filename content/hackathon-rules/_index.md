@@ -17,6 +17,7 @@ draft: false
  
 
 #### Submissions
+* Project Groups must have 1 - 4 people
 * Code or Prototype (any project work) must be made during the hackathon
 * Any code/assets used from other’s work must be referenced & legally available for you to use
 * Projects must be submitted on Devpost 

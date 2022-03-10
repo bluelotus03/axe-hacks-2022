@@ -9,10 +9,13 @@
         <div class="card shadow">
           <div class="card-body text-center py-5">
             <h3 class="mb-4">{{ .name | markdownify }}</h3>
-            <span class="price">{{ .price }}</span><span>/{{ .price_per }}</span>
+            <span class="price">{{ .price }}</span><span>{{ .price_per }}</span>
             <p class="lead">{{ .info | markdownify }}</p>
+            <h5><a href="{{ .learn_more_link }}">{{ .learn_more }}</a></h5>
+            <br />
+            <h5>{{ .service_category_1 }}</h5>
             <ul class="list-unstyled mb-5">
-              {{ range .services }}
+              {{ range .duties }}
               <li>{{ . | markdownify }}</li>
               {{ end }}
             </ul>
@@ -30,13 +33,18 @@
         <div class="card border-0 shadow-lg">
           <div class="card-body text-center py-5">
             <h3 class="mb-4">{{ .name | markdownify }}</h3>
-            <span class="price">{{ .price }}</span><span>/{{ .price_per }}</span>
+            <span class="price">{{ .price }}</span><span>{{ .price_per }}</span>
             <p class="lead">{{ .info | markdownify }}</p>
-            <ul class="list-unstyled mb-5">
-              {{ range .services }}
+            <h5><a href="{{ .learn_more_link }}">{{ .learn_more }}</a></h5>
+            <br />
+            <h5>{{ .service_category_1 }}</h5>
+            <ul class="list-unstyled mb-4">
+              {{ range .tiers }}
               <li>{{ . | markdownify }}</li>
               {{ end }}
             </ul>
+            <br />
+            <br />
             {{ if .button.enable }}
             {{ with .button }}
             <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a>
@@ -51,10 +59,13 @@
         <div class="card shadow">
           <div class="card-body text-center py-5">
             <h3 class="mb-4">{{ .name | markdownify }}</h3>
-            <span class="price">{{ .price }}</span><span>/{{ .price_per }}</span>
+            <span class="price">{{ .price }}</span><span>{{ .price_per }}</span>
             <p class="lead">{{ .info | markdownify }}</p>
+            <h5><a href="{{ .learn_more_link }}">{{ .learn_more }}</a></h5>
+            <br />
+            <h5>{{ .service_category_1 }}</h5>
             <ul class="list-unstyled mb-5">
-              {{ range .services }}
+              {{ range .duties }}
               <li>{{ . | markdownify }}</li>
               {{ end }}
             </ul>
