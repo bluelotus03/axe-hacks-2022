@@ -12,7 +12,7 @@ and is at least 16 years old, are welcome to participate as hackers!
 {{</ faq >}}
 
 {{< faq "Will events be in-person or virtual?" >}}
-Students may choose to meet in-person for watch parties, working on projects, and attend events together. However, all of our events and judging will be conducted virtually.
+Students may choose to meet in-person for watch parties, working on projects, and attend events together. However, all of our events and judging will be conducted virtually. In-person meetups and activities are limited to UNC Charlotte students in an effort to stay safe with COVID protocols.
 {{</ faq >}}
 
 {{< faq "Can I volunteer?" >}}
