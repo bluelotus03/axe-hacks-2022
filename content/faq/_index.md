@@ -7,7 +7,7 @@ draft: false
 ---
 
 {{< faq "Who can participate in Axe Hacks?" >}}
-Any graduate or undergraduate UNC Charlotte student who identifies as female (cis or trans) or non-binary,
+Any graduate or undergraduate college students in the U.S. who identifies as female (cis or trans) or non-binary,
 and is at least 16 years old, are welcome to participate as hackers!
 {{</ faq >}}
 
@@ -49,4 +49,8 @@ Yes! We are finalizing our channels now, and we will update everyone once it's r
 
 {{< faq "When will the category prizes be announced?" >}}
 Soon! We are finalizing our category prizes and sponsors, and we will update everyone once they are released. You will be able to see all of these on our [Devpost](https://axe-hacks-2022.devpost.com/).
+{{</ faq >}}
+
+{{< faq "Why are participants limited to the U.S.?" >}}
+With this being Axe Hacks first year and having many things to figure out, this helps us ensure things like shipping prizes runs smoothly. It may be opened up in the future, so stay tuned! 
 {{</ faq >}}
