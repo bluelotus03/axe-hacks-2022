@@ -9,13 +9,21 @@
 }
 
 .btn {
-  &:link,&:visited {
+  &:link,
+  &:visited {
     color: $primary-color;
   }
   &-primary {
-    &:link,&:visited{
+    &:link,
+    &:visited{
       color: $white;
     }
+  }
+}
+
+footer * a {
+  &:link, &:visited {
+    color: $primary-color;
   }
 }
 
