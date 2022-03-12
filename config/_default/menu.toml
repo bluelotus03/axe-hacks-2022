@@ -14,6 +14,7 @@ name = "Devpost"
 url = "https://axe-hacks-2022.devpost.com/"
 weight = 3
 
+[[main]]
 name = "Get Involved"
 url = "get-involved/"
 weight = 3
