@@ -1,5 +1,6 @@
 #################### default parameters ################################
 logo = "images/logo.png"
+footer_logo = "images/footer-logo.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
 description = "Official website for Axe Hacks 2022"
