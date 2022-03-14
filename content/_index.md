@@ -110,7 +110,7 @@ call_to_action:
   enable : true
   title : "Ready for an adventure?"
   image : "images/cta.png"
-  content : "If you like fun, creative projects and connecting with other awesome UNCC students, you should join us! Once registered, you will be added to our email list for any updates and announcements like our schedule and category prize postings."
+  content : "If you like fun, creative projects and connecting with other awesome women in STEM, you should join us! Once registered, you will be added to our email list for any updates and announcements like our schedule and category prize postings."
   button:
     enable : true
     label : "Sign Me Up!"
