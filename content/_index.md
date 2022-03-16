@@ -70,7 +70,7 @@ service:
       button:
         enable : true
         label : "See Events"
-        link : "/blog"
+        link : "/events"
         
     # service item loop
     - title : "Challenges & Prizes"

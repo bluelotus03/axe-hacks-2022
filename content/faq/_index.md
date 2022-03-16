@@ -40,7 +40,7 @@ In addition to the Code of Conduct you signed on the Google form, you can find o
 {{</ faq >}}
 
 {{< faq "Where can I find the schedule?" >}}
-You can find our Axe Hacks calendar and any notes on events [here](https://gwc-uncc.github.io/axe-hacks-2022/blog/). We are working on finalizing our full schedule and will update you as soon as it is released!
+You can find our Axe Hacks calendar and any notes on events [here](https://gwc-uncc.github.io/axe-hacks-2022/events/). We are working on finalizing our full schedule and will update you as soon as it is released!
 {{</ faq >}}
 
 {{< faq "Is there an Axe Hacks Discord?" >}}
