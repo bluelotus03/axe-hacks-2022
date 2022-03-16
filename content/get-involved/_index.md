@@ -10,8 +10,8 @@ basic:
   price: ""
   price_per : ""
   info : "Graduate Students, Alumni, and Working Professionals preferred"
-  learn_more: "⭐ See Perks & Duties ⭐" 
-  learn_more_link: "https://drive.google.com/file/d/1x9uky_KM1vBwaRnalmW_Od-IH_I1kVdb/view?usp=sharing"
+  learn_more: "⭐ Learn More ⭐" 
+  learn_more_link: "https://docs.google.com/document/d/1nlnnwUHIe2JxTE1lQAEX-FoZuqhwfI_vTXlBp2c1v1s/edit?usp=sharing"
   service_category_1 : "Involves"
   duties:
   - "Joining Our Discord"
@@ -27,8 +27,8 @@ professional:
   price: ""
   price_per : ""
   info : "Companies, Organizations, and Individuals Welcome!"
-  learn_more: "⭐ See Perks & Duties ⭐" 
-  learn_more_link: "https://drive.google.com/file/d/1x9uky_KM1vBwaRnalmW_Od-IH_I1kVdb/view?usp=sharing"
+  learn_more: "⭐ Learn More ⭐" 
+  learn_more_link: "https://docs.google.com/document/d/1nlnnwUHIe2JxTE1lQAEX-FoZuqhwfI_vTXlBp2c1v1s/edit?usp=sharing"
   service_category_1 : "Sponsor Tiers"
   tiers:
   - "Gold Tier ($150+)"
@@ -44,8 +44,8 @@ business:
   price: ""
   price_per : ""
   info : "Graduate Students, Alumni, and Working Professionals preferred"
-  learn_more: "⭐ See Perks & Duties ⭐" 
-  learn_more_link: "https://drive.google.com/file/d/1x9uky_KM1vBwaRnalmW_Od-IH_I1kVdb/view?usp=sharing"
+  learn_more: "⭐ Learn More ⭐" 
+  learn_more_link: "https://docs.google.com/document/d/1nlnnwUHIe2JxTE1lQAEX-FoZuqhwfI_vTXlBp2c1v1s/edit?usp=sharing"
   service_category_1 : "Involves"
   duties:
   - "(Optional) Joining Our Discord"
