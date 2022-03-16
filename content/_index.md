@@ -102,8 +102,11 @@ screenshot:
 sponsors:
   enable : true
   title : "Sponsors"
-  image_1 : "images/echo3D-Logo.png"
-  link_1: "https://www.echo3d.co"
+  sponsors : 
+    - img: "images/echo3D-Logo.png"
+      url: "https://www.echo3d.co"
+    - img: "images/LDC-Logo.png"
+      url: "https://linktr.ee/LotusDC"
 
 ##################### Call to action #####################
 call_to_action:
