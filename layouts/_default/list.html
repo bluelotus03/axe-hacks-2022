@@ -3,7 +3,7 @@
 {{ partial "page-header.html" . }}
 
 <!-- If there are no posts, then let the content of the list page show (i.e. Coming Soon) -->
-{{ if and (eq .Section "blog") (eq (len .Data.Pages) 0) }}
+{{ if and (eq .Section "events") (eq (len .Data.Pages) 0) }}
 <section class="section">
   <div class="container">
     <div class="row">
@@ -19,9 +19,9 @@
       </div>
     </div>
 </section>
-<!-- checking blog -->
+<!-- checking events -->
 
-{{ else if or (or (eq .Section "post") (eq .Section "blog") (eq .Type site.Params.blogCategoryType)) (or (eq .Section
+{{ else if or (or (eq .Section "post") (eq .Section "events") (eq .Type site.Params.blogCategoryType)) (or (eq .Section
 "categories") (eq .Section "tags") )}}
 
 <section class="section">
