@@ -60,7 +60,8 @@
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link">{{ .label }} <i class="fas fa-arrow-right"></i></a>
+        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link u-purple">{{ .label }} <i
+            class="fas fa-arrow-right"></i></a>
         {{ end }}
         {{ end }}
       </div>
@@ -90,7 +91,8 @@
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link">{{ .label }} <i class="fas fa-arrow-right"></i></a>
+        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link u-purple">{{ .label }} <i
+            class="fas fa-arrow-right"></i></a>
         {{ end }}
         {{ end }}
       </div>
@@ -131,9 +133,19 @@
       </div>
     </div>
   </div>
-    <a href="{{ .link_1 }}">{{ with .image_1 }}<img src="{{ . | relURL }}" alt="" class="img-fluid sponsor-logos">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 row align-items-center mx-auto justify-content-around">
+        {{ range .sponsors }}
+      <div class="col-lg-6 col-md-6">
+        <a href="{{ .url }}">{{ with .img }}<img src="{{ . | relURL }}" alt="" class="img-fluid sponsor-logos">
+          {{ end }}
+        </a>
+      </div>
       {{ end }}
-    </a>
+    </div>
+    </div>
+  </div>
 </section>
 {{ end }}
 {{ end }}
