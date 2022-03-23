@@ -1,6 +1,6 @@
 ---
 title: "Get Involved"
-subtitle: "Deadline to apply is Wednesday, March 23rd. Please note: All participation requirements are virtual, and you can fill multiple roles!"
+subtitle: "**Deadline to apply is Wednesday, March 23rd.** Please note: All participation requirements are virtual, and you can fill multiple roles!"
 # meta description
 description: "This is meta description"
 draft: false
