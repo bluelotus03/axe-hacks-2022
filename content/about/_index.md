@@ -5,7 +5,7 @@ subtitle: ""
 description: "This is meta description"
 draft: false
 team_sections:
-    - name: Meet Our Axe Hack Team
+    - name: Meet Our Axe Hacks Team
       team_members:
         - name: Ashley Harmon
           img: images/headshots/AshleyHarmon.jpg
