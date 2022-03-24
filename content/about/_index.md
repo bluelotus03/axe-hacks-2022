@@ -219,7 +219,7 @@ team_sections:
             - Python
             - HTML/CSS/JS
             - Security
-            - Project Logic
+            - Linux
             - APIs
             - Backend/Databases
           socials:
