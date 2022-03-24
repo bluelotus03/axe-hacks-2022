@@ -3,7 +3,7 @@
 banner:
   title : "Hack away to find that golden idea!"
   image : "images/cover-photo.png"
-  content : "Axe Hacks is a hybrid hackathon for college students in the U.S. who identify as female or non-binary, focused on a fun, beginner-friendly experience with low-code/no-code projects. Join us March 25th - 27th, and stay tuned for our full schedule!"
+  content : "Axe Hacks is a hybrid hackathon for college students in the U.S. who identify as female or non-binary, focused on a fun, beginner-friendly experience with low-code/no-code projects. Join us March 25th - 27th!"
   # button:
   #   enable : true
   #   label : "Learn More"
@@ -66,7 +66,7 @@ service:
     - title : "Events Schedule"
       images:
       - "images/service-1.png"
-      content : "Our hackathon will kick off on Friday, March 25th and wrap up on March 27th. In addition to Hacker Hangouts during the hackathon, we will have an awesome line-up of Mini Events in the week leading up to it. Once our full schedule is posted, you can check it out with the link below!"
+      content : "Our hackathon will kick off on Friday, March 25th and wrap up on March 27th. In addition to Hacker Hangouts during the hackathon, we will have an awesome line-up of Mini Events in the week leading up to it. Check out our full schedule with the link below!"
       button:
         enable : true
         label : "See Events"
@@ -76,7 +76,7 @@ service:
     - title : "Challenges & Prizes"
       images:
       - "images/service-2.png"
-      content : "As we focus on beginners, we have a variety of prize categories from those rewarding the idea with the most potential to those with the most technical hack. We will also have a challenge for who can create the best Nora the Niner (our awesome female mascot at Axe Hacks). Stay tuned for the announcement of all our categories and prizes! You can find this information and more on Devpost with the link below."
+      content : "As we focus on beginners, we have a variety of prize categories from those rewarding the idea with the most potential to those with the most technical hack. We will also have a challenge for who can create the best Nora the Niner (our awesome female mascot at Axe Hacks). You can find this information and more on Devpost with the link below!"
       button:
         enable : true
         label : "See Devpost"

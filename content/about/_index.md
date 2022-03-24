@@ -8,7 +8,7 @@ team_sections:
     - name: AXE Hack team
       team_members:
         - name: Ashley Harmon
-          img: images/blog/post-2.jpg
+          img: images/Nora-withAxe.png
           img_alt: "alt text"
           titles:
             - Director
