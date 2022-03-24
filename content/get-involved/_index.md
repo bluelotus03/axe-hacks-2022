@@ -1,6 +1,6 @@
 ---
 title: "Get Involved"
-subtitle: "Please note: All participation requirements are virtual, and you can fill multiple roles!"
+subtitle: "Please note: The Application Form Closed on March 23rd."
 # meta description
 description: "This is meta description"
 draft: false
