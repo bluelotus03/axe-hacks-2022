@@ -118,7 +118,7 @@ team_sections:
           img_alt: "alt text"
           position: Computer Science Student at UNCC
           titles:
-            - Web Development
+            - Web Dev
             - API Basics
             - Figma
             - Design
@@ -129,7 +129,7 @@ team_sections:
           img_alt: "alt text"
           position: Software Developer, Signature Consultants
           titles:
-            - Web Development
+            - Web Dev
             - Java
             - SQL
             - JQuery
@@ -142,7 +142,6 @@ team_sections:
             - Git
             - Bash
             - Linux
-            - Hardware
             - Demo
             - Big Data
             - Design
@@ -153,7 +152,13 @@ team_sections:
           img_alt: "alt text"
           position: MSIT Student at UNCC
           titles:
-            - GitHub Basics, VS Code, Figma, HTML/CSS, Design
+            - GitHub Basics
+            - VS Code
+            - Web Dev
+            - HTML/CSS
+            - Game Design & Dev Basics
+            - Figma
+            - Design
           socials:
             linkedin: https://www.linkedin.com/in/ashharmon/
         - name: Sarah Taylor
