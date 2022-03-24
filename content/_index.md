@@ -25,9 +25,9 @@ feature:
       content : "Our hybrid format will let you get to know other students at UNC Charlotte on campus or from the comfort of your own home."
       
     # feature item loop
-    - name : "24h Support"
+    - name : "Mentor Support"
       icon : "fas fa-user-clock"
-      content : "Worried about running into issues? We will have someone available on the Hacker Help channel around the clock!"
+      content : "Worried about running into issues? We will have mentors available on the Hacker Help channel!"
       
     # feature item loop
     - name : "Experience"
