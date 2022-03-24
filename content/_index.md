@@ -105,6 +105,8 @@ sponsors:
   sponsors : 
     - img: "images/echo3D-Logo.png"
       url: "https://www.echo3d.co"
+    - img: "images/IncovateSolutionsLogoMain.svg"
+      url: "https://incovatesolutions.com"
     - img: "images/LDC-Logo.png"
       url: "https://linktr.ee/LotusDC"
 
