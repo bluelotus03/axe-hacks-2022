@@ -3,7 +3,7 @@
 banner:
   title : "Hack away to find that golden idea!"
   image : "images/cover-photo.png"
-  content : "Axe Hacks is a hybrid hackathon for college students in the U.S. who identify as female or non-binary, focused on a fun, beginner-friendly experience with low-code/no-code projects. Join us March 25th - 27th!"
+  content : "Axe Hacks is a hybrid hackathon for college students in the U.S. who identify as female or non-binary, focused on a fun, beginner-friendly experience with low-code/no-code projects. Please note: This Hackathon took place on March 25-27, 2022. Thanks to all who joined us for our very first Axe Hacks!"
   # button:
   #   enable : true
   #   label : "Learn More"
